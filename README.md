@@ -9,6 +9,7 @@
 |Memory|x2 8GB Corsair VENGEANCE 3000hz DDR4|
 |GPU |GIGABYTE NVIDIA 1080 GTX  |
 |Drive |Sandisk SSD PLUS 480GB  |
+|Audio |ALC887 |
 
 ### OpenCore:
 |Name |Variable  |
