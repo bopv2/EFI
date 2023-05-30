@@ -17,6 +17,14 @@
 |Version |0.9.2|
 |Mode|RELEASE |
 
+### Version:
+|Version |Support  |Note |
+|:---|:---|:---|
+|BigSur |⚠️|Not tested |
+|Monterey|✅ |- |
+|Ventura|✅ |- |
+
+---
 
 ### Features:
 #### 🟢 NVIDIA Web Drivers (OCLP)
