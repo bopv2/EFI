@@ -7,6 +7,7 @@
 |CPU |Intel Core i3 10100|
 |Mother Board|GIGABYTE B460M DS3H|
 |Memory|x2 8GB Corsair VENGEANCE 3000hz DDR4|
+|Network |Broadcom ??  |
 |GPU |GIGABYTE NVIDIA 1080 GTX  |
 |Drive |Sandisk SSD PLUS 480GB  |
 |Audio |ALC887 |
