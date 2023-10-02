@@ -28,7 +28,7 @@
 ---
 
 ### Features:
-#### 🟢 NVIDIA Web Drivers (OCLP)
+#### 🟢 NVIDIA Web Drivers (OCLP) **(AMFI Enabled with AMFI-Pass)**
 #### 📺 OpenCanopy
 #### 🔊 AppleALC patches
 #### 📱  Android USB Tethering
